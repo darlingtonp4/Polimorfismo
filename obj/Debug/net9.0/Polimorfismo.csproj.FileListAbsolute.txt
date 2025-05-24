@@ -1,0 +1,14 @@
+/Users/darlingtonpadgett/Documents/Universidad/Programacion 2/Polimorfismo/bin/Debug/net9.0/Polimorfismo
+/Users/darlingtonpadgett/Documents/Universidad/Programacion 2/Polimorfismo/bin/Debug/net9.0/Polimorfismo.deps.json
+/Users/darlingtonpadgett/Documents/Universidad/Programacion 2/Polimorfismo/bin/Debug/net9.0/Polimorfismo.runtimeconfig.json
+/Users/darlingtonpadgett/Documents/Universidad/Programacion 2/Polimorfismo/bin/Debug/net9.0/Polimorfismo.dll
+/Users/darlingtonpadgett/Documents/Universidad/Programacion 2/Polimorfismo/bin/Debug/net9.0/Polimorfismo.pdb
+/Users/darlingtonpadgett/Documents/Universidad/Programacion 2/Polimorfismo/obj/Debug/net9.0/Polimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/darlingtonpadgett/Documents/Universidad/Programacion 2/Polimorfismo/obj/Debug/net9.0/Polimorfismo.AssemblyInfoInputs.cache
+/Users/darlingtonpadgett/Documents/Universidad/Programacion 2/Polimorfismo/obj/Debug/net9.0/Polimorfismo.AssemblyInfo.cs
+/Users/darlingtonpadgett/Documents/Universidad/Programacion 2/Polimorfismo/obj/Debug/net9.0/Polimorfismo.csproj.CoreCompileInputs.cache
+/Users/darlingtonpadgett/Documents/Universidad/Programacion 2/Polimorfismo/obj/Debug/net9.0/Polimorfismo.dll
+/Users/darlingtonpadgett/Documents/Universidad/Programacion 2/Polimorfismo/obj/Debug/net9.0/refint/Polimorfismo.dll
+/Users/darlingtonpadgett/Documents/Universidad/Programacion 2/Polimorfismo/obj/Debug/net9.0/Polimorfismo.pdb
+/Users/darlingtonpadgett/Documents/Universidad/Programacion 2/Polimorfismo/obj/Debug/net9.0/Polimorfismo.genruntimeconfig.cache
+/Users/darlingtonpadgett/Documents/Universidad/Programacion 2/Polimorfismo/obj/Debug/net9.0/ref/Polimorfismo.dll
